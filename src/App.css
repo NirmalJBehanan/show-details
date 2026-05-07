@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app-container{
+  height: 100vh;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 50px;
+  margin-top: 30px;
+  align-content: flex-start;
+}
+.card-container{
+   padding: 30px;
+   width: 300px;
+   box-shadow: 2px 4px 8px 0px gray;
+   transition: 0.3s;
+}
+.btn{
+    display: flex;
+    flex-direction: row-reverse;
+}
+button{
+    background-color: lightskyblue;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.card-container:hover{
+    background-color: lightgray;
+    transform: translateY(-5px);
+}
