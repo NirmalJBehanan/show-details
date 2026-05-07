@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from '../button/Button'
-import './App.css'
+import '../../App.css'
 
 const Card = ({name,email,btnname}) => {
   return (
