@@ -6,10 +6,10 @@ import './App.css'
 const App = () => {
   return (
     <div className='app-container'>
-       <Card name="Nirmal" email="abcd@gmail.com" btnname="Btn1" />
-       <Card name="Ammu" email="ammu@gmail.com"  btnname="Btn2"/>
-       <Card name="kero" email="kero@gmail.com"  btnname="Btn3"/>
-    
+      <Card name="Nirmal" email="abcd@gmail.com" btnname="Btn1" />
+      <Card name="Ammu" email="ammu@gmail.com" btnname="Btn2" />
+      <Card name="kero" email="kero@gmail.com" btnname="Btn3" />
+
     </div>
   )
 }
