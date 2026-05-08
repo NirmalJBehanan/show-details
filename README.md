@@ -92,14 +92,14 @@ npm run dev
 # 🌐 Live Demo
 
 🔗 Netlify Link:  
-https://your-project-name.netlify.app/
+https://show-detailss.netlify.app/
 
 ---
 
 # 💼 LinkedIn
 
 🔗 LinkedIn Profile:  
-https://www.linkedin.com/in/your-linkedin-id/
+https://www.linkedin.com/in/nirmal-j-behanan/
 
 ---
 
